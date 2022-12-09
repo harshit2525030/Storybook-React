@@ -1,4 +1,5 @@
 ```
+>> npm i
 >> npx sb init (installation)
 >> npm run storybook (run command)
 ```
